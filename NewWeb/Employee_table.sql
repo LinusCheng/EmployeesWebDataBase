@@ -9,6 +9,3 @@ SELECT * FROM test.LOGIN;
 SELECT * FROM test.EMP;
 SELECT * FROM test.DEP;
 
-
-
-
