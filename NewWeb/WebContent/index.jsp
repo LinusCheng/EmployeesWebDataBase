@@ -23,7 +23,6 @@
 
 <div class="topbar">
 <%
-//HttpSession se = request.getSession(false);
 HttpSession se = request.getSession(false);
 
 if(se==null){
